@@ -1,0 +1,2 @@
+# Les joueurs professionnels d'esport
+Ce projet vise à étudier le monde de l'esport professionnel et de ses joueurs, de l'évolution de ses pratiques alors que c'est un secteur compétitif qui devient de plus en plus populaire.
