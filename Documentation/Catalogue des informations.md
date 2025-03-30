@@ -1,4 +1,4 @@
-## Objets (avec leurs propriétés)
+## Objets
 
 
 ### Personne
