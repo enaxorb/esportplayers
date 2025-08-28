@@ -1,0 +1,12 @@
+## Répartition des jeux selon l'âge
+Existe-t-il une corrélation entre le genre de jeu pratiqué et les caractéristiques socio-démographique des joueurs?
+
+Le monde du jeux vidéo est plutôt récent et celui de l'esport l'est encore plus. Ainsi je suis venue à me demander si le choix des jeux pouvait changer en fonction de l'âge du joueur professionel. En effet, car même si cela est récent, c'est également un univers qui est en constante évolution et ce, à une vitesse folle.
+
+Ainsi, j'ai commencé par traiter les naissances et le regrouper en période de 5 ans. C'est assez court car la période total des joueurs esport n'est que d'environ 50 ans, mais suffisamment long pour observer de véritables différences. On remarque une croissance rapide entre 1980 et 1985, croissance qui va continuer pour atteindre un pic entre 1990 et 1995 avant de redescendre. 
+
+Ensuite, il fallait traiter la répartition des joueurs selon le jeu, afin de voir si certains jeux étaient beaucoup plus populaires que d'autres, ou si la répartition était plus uniforme. J'ai commencé par faire un top 10 des jeux les plus populaires, afin d'avoir un graphique plus lisible, ceux qui n'étaient pas dedans ont été regroupés sous "autre". Le jeu vidéo qui arrive en tête est StarCraft II (Q18142874) et le second est League of Legend (Q223341). Toutefois on peut remarquer une assez grande diversité de jeux puisque 17,8% des joueurs sont dans la catégorie "autre", ce qui est juste devant League of Legend.
+
+Enfin, j'ai utilisé un diagramme en barres empilées pour observer la répartition des jeux les plus populaires selon les années de naissances. On peut donc observer qu'en 5 ans, les changements peuvent être nombreux. En effet, si StarCraft II, en bleu, est très populaire chez les joueurs nés entre 1985 et 1995, il commence à perdre en popularité chez les plus jeunes joueurs, pour laisser place à League of Legend qui a plutôt tendance à gagner en popularité.
+
+Dans l'ensemble, on peut effectivement observer un lien entre l'âge des joueurs professionels et le choix du jeux vidéos. Toutefois, il existe d'autres variables qui peuvent influencer ce choix, comme l'arrêt de live service d'un jeu qui le rend donc injouable par exemple.
