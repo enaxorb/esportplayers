@@ -6,7 +6,7 @@ Une autre question qui peut se poser est de nature géographique. En effet, si c
 
 Pour commencer, j'ai fait une liste des pays regroupant le plus de joueurs uniques. 
 
-![alt text](<https://github.com/enaxorb/esportplayers/blob/main/Documentation/Réponses%20aux%20questionnements/Images/structurejeuxjoueurs.png>)
+![alt text](<https://github.com/enaxorb/esportplayers/blob/main/Documentation/Réponses%20aux%20questionnements/Images/Paysnbjoueur.png>)
 
 Ce qu'on observe et que la majorité des joueurs proviennent d'un seul et même pays, le Q884 (La Corée du Sud), qui compte plus de six cent joueurs. Le deuxième pays a nettement moins de joueurs, avec moins de deux cent joueurs. Cette tendance indique qu'il peut y avoir un biais pour la Corée du Sud. Ainsi, les tendances observées pourrait surtout refléter les habitudes de jeux des joueurs coréens et non un schoma global.
 
@@ -18,7 +18,7 @@ Pour répondre au questionnement initial, j'ai fait un test du chi carré, appli
 
 Afin d'illustrer la répartition des jeux vidéos par pays, j'ai choisi de faire une heatmap.
 
-![alt text](<https://github.com/enaxorb/esportplayers/blob/main/Documentation/Réponses%20aux%20questionnements/Images/structurejeuxjoueurs.png>)
+![alt text](<hhttps://github.com/enaxorb/esportplayers/blob/main/Documentation/Réponses%20aux%20questionnements/Images/Jeuxparpays.png>)
 
 On peut à nouveau observer une dominance Coréenne parmis les joueurs, dans quatre des dix jeux.
 
