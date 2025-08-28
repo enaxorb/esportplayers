@@ -18,7 +18,7 @@ Pour répondre au questionnement initial, j'ai fait un test du chi carré, appli
 
 Afin d'illustrer la répartition des jeux vidéos par pays, j'ai choisi de faire une heatmap.
 
-![alt text](<hhttps://github.com/enaxorb/esportplayers/blob/main/Documentation/Réponses%20aux%20questionnements/Images/Jeuxparpays.png>)
+![alt text](<https://github.com/enaxorb/esportplayers/blob/main/Documentation/Réponses%20aux%20questionnements/Images/Jeuxparpays.png>)
 
 On peut à nouveau observer une dominance Coréenne parmis les joueurs, dans quatre des dix jeux.
 
