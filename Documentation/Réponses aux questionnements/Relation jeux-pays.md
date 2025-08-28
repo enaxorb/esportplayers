@@ -24,5 +24,5 @@ On peut à nouveau observer une dominance Coréenne parmis les joueurs, dans qua
 
 Toutes mes tentatives de faire une visualisation d'une analyse factorielle des correspondances ont échouées. En effet, à cause de cette dominance de la Corée du Sud dans les pays d'origine des joueurs, les jeux et les pays se superposaient et ne permettait aucuns résultats clairs et satisfaisant.
 
-L'échantillon utilisé ici n'est donc pas optimal pour une analyse bivariée des pays et des jeux. En effet, il y a une distribution déséquilibrée des joueurs par pays, ce qui introdduit un biais. Les résultats sont pas conséquent, surtout pertinent pour la Corée mais moins pour les autres pays.
+L'échantillon utilisé ici n'est donc pas optimal pour une analyse bivariée des pays et des jeux. En effet, il y a une distribution déséquilibrée des joueurs par pays, ce qui introduit un biais. Les résultats sont par conséquent, surtout pertinent pour la Corée mais moins pour les autres pays.
 

@@ -16,7 +16,7 @@ Malgré le nombre majoritaire de petites communautés, il est intéressant de vo
 
 ![alt text](<https://github.com/enaxorb/esportplayers/blob/main/Documentation/Réponses%20aux%20questionnements/Images/structurejeuxjoueurs.png>)
 
-On peut observer deux communautés distinctes de jeux. En bleu clair, on a des jeux plus fortement connectés entre eux que la communauté en bleu foncés, qui partagent tout de même des joueurs mais ont moins de connexions externes. La densité du résau est faible et les arêtes reliant les jeux ont généralement un poind faible, ce qui signifie que peu de joueurs participent à plusieurs jeux.
+On peut observer que la densité du résau est faible et les arêtes reliant les jeux ont généralement un point faible, ce qui signifie que peu de joueurs participent à plusieurs jeux.
 
 Il semble que le noeud Q8442146 joue un rôle important. En effet il a plusieurs connexions vers les deux communautés tout comme lee noeud Q18142874. Les deux noeuds servent de ponts entre les deux communautés et les relient entre elles. On observe également que ce sont deux jeux ayant plus de cent joueurs. Toutefois, Q223341 est le second jeu ayant le plus de joueurs mais reste malgré tout plutôt isolé. Ainsi, ce n'est pas nécessairement le nombre de joueurs unique qui va augmenter les connexions entre les communautés de jeux vidéos.
 
