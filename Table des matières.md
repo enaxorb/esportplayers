@@ -3,6 +3,11 @@
 - [Liste des joueurs](https://github.com/enaxorb/esportplayers/blob/main/Documentation/Listes%20de%20joueurs.md)
 - [Problématique et questionnements](https://github.com/enaxorb/esportplayers/blob/main/Documentation/Problématique%20et%20questionnement.md)
 - [Réponses aux questionnements](https://github.com/enaxorb/esportplayers/tree/main/Documentation/Réponses%20aux%20questionnements)
-## Sparqlbooks
-## Jupyter Notebooks
-## Data
+## [Sparqlbooks](https://github.com/enaxorb/esportplayers/tree/main/Sparqlbooks)
+- [Explore population](https://github.com/enaxorb/esportplayers/blob/main/Sparqlbooks/wdt_explore_population.sparqlbook.md)
+- [Import population](https://github.com/enaxorb/esportplayers/blob/main/Sparqlbooks/wdt_import_population.sparqlbook.md)
+## [Jupyter Notebooks](https://github.com/enaxorb/esportplayers/tree/main/JupyterNotebook)
+- [Evolution popularité jeux](https://github.com/enaxorb/esportplayers/blob/main/JupyterNotebook/JeuxNaissances.ipynb)
+- [Structure jeux/joueurs](https://github.com/enaxorb/esportplayers/blob/main/JupyterNotebook/structurejeux.ipynb)
+- [Liens pays/jeux](https://github.com/enaxorb/esportplayers/blob/main/JupyterNotebook/PaysJeux.ipynb)
+## [Data](https://github.com/enaxorb/esportplayers/tree/main/Data)
